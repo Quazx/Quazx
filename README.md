@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mitansh Panchal aka <b>looph0le</b></h1>
+<h1 align="center">Hi, I'm Mitansh Panchal aka <b>looph0le</b></h1>
 <h3 align="center">I'm a Computer Engineering Student and a Linux enthusiast</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python Scripting**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **mitanshpanchal@gmail.com**
+- 📫 How to reach me **loxvepic@gmail.com**
 
 ## 🚀 Languages and Tools:
 
