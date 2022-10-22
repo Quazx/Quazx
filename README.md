@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Quazx</b></h1>
-<h3 align="center">I'm a Computer Engineering Student and a Linux enthusiast</h3>
+<h3 align="center">I'm a Python Developer</h3>
 
 
 ## 🙋‍♂️ About Me
